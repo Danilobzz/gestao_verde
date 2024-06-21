@@ -1,0 +1,13 @@
+castanheiro,caduca,True,árvore,8.1,100
+cedro,persistente,False,árvore,1.5,80
+pinheiro manso,persistente,True,árvore,3.1,100
+loureiro,persistente,False,arbusto,3.0,40
+bordo,caduca,False,árvore,6.0,120
+azaleia,persistente,False,arbusto,0.5,15
+macieira,caduca,True,árvore,2.5,25
+figueira,persistente,True,árvore,4.2,80
+salgueiro,caduca,False,árvore,5.5,60
+abeto,persistente,True,árvore,2.8,90
+cerejeira,caduca,True,árvore,4.0,30
+buxo,persistente,False,arbusto,0.6,20
+nogueira,caduca,True,árvore,5.7,50
